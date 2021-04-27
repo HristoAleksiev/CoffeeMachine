@@ -134,3 +134,4 @@ while client_order != "off":
 # TODO: 1. Comment code appropriately.
 # TODO: 2. Clean up if needed.
 # TODO: 3. Expand the machine to work with coins, instead of only total amounts.
+
